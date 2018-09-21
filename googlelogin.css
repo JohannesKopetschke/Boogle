@@ -1,0 +1,146 @@
+.logo {
+margin: 0 auto;
+width: 100px;
+}
+
+.login {
+margin: 0 auto;
+position: relative;
+top: -500px;
+width: 100px;
+
+}
+
+
+.greybox {
+    height: 600px;
+    width: 500px;
+    background-color: #f2efef;
+    margin: 0 auto;
+    position: relative;
+    left: 70px;
+
+}
+
+
+.Headline {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 45px;
+    width: 550px;
+     left: 110px;
+     top: -30px;
+
+
+}
+
+.Subheadline {
+font-size: 32px;
+width: 520px;
+position: relative;
+margin-left: auto;
+margin-right: auto;
+     left: 110px;
+     top: -20px;
+
+}
+
+.form {
+    height: 100px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.enter  {
+    height: 40px;
+    width: 450px;
+    font-size: 25px;
+    position: relative;
+    left: 40px;
+    top: -450px;
+    border-radius: 10px;
+    background-color: #fcf8bf;
+
+
+}
+
+
+.button {
+    position: relative;
+    width: 455px;
+    height: 45px;
+    color: white;
+    background-color: blue;
+    left: 40px;
+    top: -440px;
+    border-radius: 15px;
+
+}
+
+
+#help {
+    height: 100px;
+    width: 100px;
+    color: #5757ed;
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    left: 220px;
+    top: -440px;
+}
+
+#help a:hover {
+color:blue;
+}
+
+
+#create a {
+    color: black;
+    font-size: 26px;
+    width: 450px;
+    display:block;
+    left: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: -420px;
+}
+
+#create p {
+    color: #fffff;
+    font-size: 18px;
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    display:block;
+    text-decoration: none;
+    left: 170px;
+    top: -400px;
+}
+
+#create a:hover {
+  color: #46a6f4;
+  text-decoration: underline;
+}
+
+.products {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 350px;
+    left: 80px;
+    top: -400px;
+
+
+}
+
+.sizeproducts {
+max-width:43px;
+max-height: 50px;
+}
